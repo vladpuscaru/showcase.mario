@@ -1,0 +1,58 @@
+Texture TexMarioMove ./resources/assets/tex_mario_move.png
+Texture TexMarioIdle ./resources/assets/tex_mario_idle.png
+Texture TexMarioBigMove ./resources/assets/tex_mariobig_move.png
+Texture TexMarioBigIdle ./resources/assets/tex_mariobig_idle.png
+Texture TexMushroom ./resources/assets/tex_mushroom.png
+Texture TexGround ./resources/assets/tex_ground.png
+Texture TexCoin ./resources/assets/tex_coin.png
+Texture TexCoinBrick ./resources/assets/tex_coinbrick.png
+Texture TexBrick ./resources/assets/tex_brick.png
+Texture TexBrick2 ./resources/assets/tex_brick2.png
+Texture TexHitBrick ./resources/assets/tex_hitbrick.png
+Texture TexBigBush ./resources/assets/tex_bigbush.png
+Texture TexBush ./resources/assets/tex_bush.png
+Texture TexCloud1 ./resources/assets/tex_cloud_1.png
+Texture TexCloud2 ./resources/assets/tex_cloud_2.png
+Texture TexCloud3 ./resources/assets/tex_cloud_3.png
+Texture TexLightBush1 ./resources/assets/tex_lightbush_1.png
+Texture TexLightBush2 ./resources/assets/tex_lightbush_2.png
+Texture TexLightBush3 ./resources/assets/tex_lightbush_3.png
+Texture TexPipeHead ./resources/assets/tex_pipe_head.png
+Texture TexPipePiece ./resources/assets/tex_pipe_piece.png
+Texture TexLevel1 ./resources/assets/tex_level1.png
+Texture TexCastle ./resources/assets/tex_castle.png
+Texture TexFlagPole ./resources/assets/tex_flagpole.png
+Texture TexFlag ./resources/assets/tex_flag.png
+Texture TexGoomba ./resources/assets/tex_goomba.png
+Texture TexGoombaDie ./resources/assets/tex_goomba_die.png
+Animation AnimMarioMove TexMarioMove 3 3 loop
+Animation AnimMarioIdle TexMarioIdle 1 0 loop
+Animation AnimMarioBigMove TexMarioBigMove 3 3 loop
+Animation AnimMarioBigIdle TexMarioBigIdle 1 0 loop
+Animation AnimMushroom TexMushroom 1 0 loop
+Animation AnimGround TexGround 1 0 loop
+Animation AnimCoin TexCoin 4 3 loop
+Animation AnimCoinBrick TexCoinBrick 3 10 loop
+Animation AnimMushroomBrick TexCoinBrick 3 20 loop
+Animation AnimBrick TexBrick 1 0 loop
+Animation AnimBrick2 TexBrick2 1 0 loop
+Animation AnimHitBrick TexHitBrick 1 0 loop
+Animation AnimBigBush TexBigBush 1 0 loop
+Animation AnimLevel1 TexLevel1 1 0 loop
+Animation AnimBush TexBush 1 0 loop
+Animation AnimCloud1 TexCloud1 1 0 loop
+Animation AnimCloud2 TexCloud2 1 0 loop
+Animation AnimCloud3 TexCloud3 1 0 loop
+Animation AnimLightBush1 TexLightBush1 1 0 loop
+Animation AnimLightBush2 TexLightBush2 1 0 loop
+Animation AnimLightBush3 TexLightBush3 1 0 loop
+Animation AnimPipeHead TexPipeHead 1 0 loop
+Animation AnimPipePiece TexPipePiece 1 0 loop
+Animation AnimCastle TexCastle 1 0 loop
+Animation AnimFlag TexFlag 1 0 loop
+Animation AnimFlagPole TexFlagPole 1 0 loop
+Animation AnimGoomba TexGoomba 2 20 loop
+Animation AnimGoombaDie TexGoombaDie 1 35 noloop
+Font FontMenu ./resources/fonts/font.ttf
+Font FontGrid ./resources/fonts/grid_font.ttf
+Font FontPixel ./resources/fonts/pixel.ttf
